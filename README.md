@@ -1,1 +1,2 @@
-# Doremon-part1
+# collisionAlgorithm
+Algorithm to detect collision between two objects
